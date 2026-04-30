@@ -1,0 +1,15 @@
+abs() => absoluto
+base_convert() => conversao de bases
+ceil() => 
+floor() => 
+round() => 
+hypot() => hipotenusa
+intdiv() => divisao inteira, não retorna real
+min() => valor minimo
+max() => valor maxmimo
+pi() => retorna PI, podendo tambem ser pego com M_PI
+pow() => potencia
+sin() => seno
+cos() => cosseno
+tan() => tangente
+sqrt() => raiz quadrada
